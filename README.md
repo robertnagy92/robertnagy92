@@ -16,6 +16,7 @@
 
 <hr>
 
+
 #### What i'm currently doing:
 
 - 💻 Actively looking for full-time web development positions.
