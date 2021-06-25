@@ -1,16 +1,27 @@
-### Hi there 👋
+ <h2 align="center"> ### Hello there, I'm Robert Nagy 👋 </h2>
+ <h3 align="center"> FullStack Web Developer  </h3> 
+ <hr>
+ 
+#### Tech stacks i'm using:
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue)
+![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
-<!--
-**robertnagy92/robertnagy92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+#### What i'm currently doing:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Actively looking for full-time web development positions.
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m learning Typescript.
+- 
+<hr>
+
+- 💬 Ask me about tech related topics.
+- 📫 How to reach me: robertnagyy1992@gmail.com 
+- ⚡ Fun fact: I helped building hobbit houses
