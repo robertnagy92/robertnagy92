@@ -28,7 +28,6 @@
 
 - 💬 Ask me about tech related topics.
 - 📫 Email: robertnagyy1992@gmail.com
-- ![LinkedIn]("https://www.linkedin.com/in/robertnagy92/")
 
 <hr>
 
