@@ -1,5 +1,6 @@
- <h2 align="center"> ### Hello there, I'm Robert Nagy 👋 </h2>
- <h3 align="center"> FullStack Web Developer  </h3> 
+ <h2 align="center">Hello there, I'm Robert Nagy 👋 </h2>
+ <h3 align="center"> Full-Stack Web Developer </h3> 
+ 
  <hr>
  
 #### Tech stacks i'm using:
