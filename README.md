@@ -4,7 +4,6 @@
  <hr>
  
 <h3 align="center"> Tech stacks i'm using: </h3>
-<h3 align="center"> 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
@@ -13,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-</h3>
+
 
 <hr>
 
