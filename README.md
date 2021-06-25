@@ -24,6 +24,7 @@
 - 🌱 I’m learning Typescript.
 
 <hr>
+
 #### Contact and inquiries:
 
 - 💬 Ask me about tech related topics.
