@@ -22,9 +22,16 @@
 - 💻 Actively looking for full-time web development positions.
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m learning Typescript.
-- 
+
 <hr>
+#### Contact and inquiries:
 
 - 💬 Ask me about tech related topics.
-- 📫 How to reach me: robertnagyy1992@gmail.com 
-- ⚡ Fun fact: I helped building hobbit houses
+- 📫 Email: robertnagyy1992@gmail.com
+- ![LinkedIn]("https://www.linkedin.com/in/robertnagy92/")
+
+<hr>
+
+#### Fun facts:
+
+- ⚡ I helped building hobbit houses.
