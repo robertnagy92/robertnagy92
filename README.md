@@ -3,8 +3,7 @@
  
  <hr>
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertnagy92&hide=prs&show_icons=true&theme=tokyonight)
- ![Top Tech Stack's](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnagy92&layout=compact&theme=tokyonight)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robertnagy92&hide=prs&show_icons=true&theme=tokyonight) ![Top Tech Stack's](https://github-readme-stats.vercel.app/api/top-langs/?username=robertnagy92&layout=compact&theme=tokyonight)
  <hr> 
  
 #### Tech stacks i'm using: 
