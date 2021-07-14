@@ -48,4 +48,3 @@
 #### Fun facts:
 
 - ⚡ I helped building hobbit houses.
-<a href="#"><img align="center" alt="walk" src="https://raw.githubusercontent.com/robertnagy92/robertnagy92/main/walk.gif"> </a>
