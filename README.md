@@ -1,5 +1,6 @@
  <h2 align="center">Hello there, I'm Robert Nagy 👋 </h2>
  <h3 align="center"> Full-Stack Web Developer </h3> 
+ <a href="#"><img align="center" alt="walk" width="50%" src="https://raw.githubusercontent.com/robertnagy92/robertnagy92/main/walk.gif"> </a>
  
  <hr>
 
